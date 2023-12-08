@@ -24,14 +24,6 @@ A simple imperative program in C, functional program in Haskell and a logical pr
 * python 3+
 * MATLAB R2023b
 
-  ```
-  gcc --version
-  ghc --version
-  swipl --version
-  python --version
-  matlab
-  ```
-
 ### Installing
 * Download provided code
 * Install required dependencies
